@@ -1950,8 +1950,8 @@ body.dark .switch_theme .switch__input + .switch__in .icon-sun {
 }
 
 .slider__pic {
-  max-width: 214px;
-  max-height: 214px;
+  max-width: 272px;
+  max-height: 272px;
 }
 
 .slider__title {
